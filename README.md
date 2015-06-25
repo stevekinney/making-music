@@ -1,6 +1,6 @@
 # Making Music in the Browser
 
-Here is a collection of resources and materials from my talk on _Making Music in the Browser_—which was originally presented at the super amazing, [JSConf 2015][jsconf].
+Here is a collection of resources and materials from my talk on _Making Music in the Browser_—which was originally presented at the super amazing, [JSConf 2015][jsconf] and [CodeConf 2015][codeconf].
 
 The [slides are available here](https://speakerdeck.com/stevekinney/making-music-in-the-browser).
 
@@ -17,6 +17,7 @@ The [slides are available here](https://speakerdeck.com/stevekinney/making-music
 * [Octavian][]: a little utility library for working with musical notes, intervals, and frequencies.
 
 [jsconf]: http://2015.jsconf.us/
+[codeconf]: http://codeconf.com/
 [Octavian]: https://github.com/stevekinney/octavian
 
 ## Community Projects

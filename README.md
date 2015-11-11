@@ -1,6 +1,6 @@
 # Making Music in the Browser
 
-Here is a collection of resources and materials from my talk on _Making Music in the Browser_—which was originally presented at the super amazing, [JSConf 2015][jsconf] and [CodeConf 2015][codeconf].
+Here is a collection of resources and materials from my talk on _Making Music in the Browser_—which was originally presented at the super amazing, [JSConf 2015][jsconf], [CodeConf 2015][codeconf], and [Nation.js](http://nationjs.com/).
 
 The [slides are available here](https://speakerdeck.com/stevekinney/making-music-in-the-browser).
 

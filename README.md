@@ -23,3 +23,5 @@ The [slides are available here](https://speakerdeck.com/stevekinney/making-music
 ## Community Projects
 
 (If you create something cool with the Web Audio API, please submit a pull request to add your project here.)
+
+* **.Synth**: [Live Demonstration](https://awk34.github.io/dotsynth/), [Code Repository](https://github.com/Awk34/dotsynth)

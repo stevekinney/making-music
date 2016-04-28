@@ -12,7 +12,7 @@ Here is a collection of resources and materials from my talk on _Making Music in
 * **Toney Danza**: [Live Demonstration](http://stevekinney.github.io/toney-danza), [Code Repository](http://github.com/stevekinney/toney-danza)
 * **Audiophonic**: [Live Demonstration](http://stevekinney.github.io/audiophonic), [Code Repository](http://github.com/stevekinney/audiophonic)
 * **Face Theremin**: [Live Demonstration](http://stevekinney.github.io/face-theremin), [Code Repository](http://github.com/stevekinney/face-theremin)
-* **Socket Synth**: [Live Demonstration](http://socket-synth.herokuapp.com), [Code Repository](http://github.com/stevekinney/socket-synth)
+* **Socket Synth**: [Live Demonstration](http://synth-socket.herokuapp.com), [Code Repository](http://github.com/stevekinney/socket-synth)
 * **Music Bot**: [Code Repository](http://github.com/stevekinney/musicbot)
 
 ## Libraries

@@ -1,6 +1,6 @@
 # Making Music in the Browser
 
-Here is a collection of resources and materials from my talk on _Making Music in the Browser.
+Here is a collection of resources and materials from my talk on _Making Music in the Browser_.
 
 ## Slides
 

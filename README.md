@@ -6,6 +6,7 @@ Here is a collection of resources and materials from my talk on _Making Music in
 
 - [JSConf](https://speakerdeck.com/stevekinney/making-music-in-the-browser)
 - [NationJS](https://speakerdeck.com/stevekinney/making-music-with-the-web-audio-api-nation-dot-js-2015)
+- SeattleJS (Coming Soon!)
 
 ## Example Applications
 
